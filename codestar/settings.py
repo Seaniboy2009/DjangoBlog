@@ -69,6 +69,8 @@ MESSAGE_TAGS = {
         messages.ERROR: 'alert-danger',
     }
 
+ACCOUNT_EMAIL_VERIFICATION = 'none'
+
 CRIPSY_TEMPLATE_PACK = 'bootstrap4'
 
 MIDDLEWARE = [
